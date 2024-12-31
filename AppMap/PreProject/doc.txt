@@ -1,0 +1,37 @@
+```json
+{
+  "doc_Pre_Projeto": {
+    "titulo": "Criação de Script para Análise Técnica da Stablecoin Tether (USDT)",
+    "data_criacao": "2024-12-31 20:17:00",
+    "descricao": "O usuário está solicitando a criação de um script para a análise técnica da stablecoin Tether (USDT). A análise técnica nesta situação deve focar na avaliação do comportamento de preço da Tether em relação a outras criptomoedas ou moedas fiduciárias, considerando que a Tether é projetada para manter um valor estável em relação ao dólar americano. O script deve incluir a coleta de dados de preços históricos e métricas de volume de negociação, permitindo a aplicação de indicadores técnicos que possam ser relevantes, como médias móveis, suporte e resistência, e análise de volatilidade. Apesar de a Tether ter seu valor atrelado ao dólar, a análise técnica pode ajudar a identificar padrões de negociação e fluxos de capital que possam influenciar seu valor em relação a outras criptomoedas. O objetivo é fornecer insights sobre a performance da Tether e auxiliar traders e investidores na tomada de decisões informadas.",
+    "objetivos": [
+      "Coletar e analisar dados de preços históricos da Tether em relação a outras criptomoedas e moedas fiduciárias.",
+      "Avaliar o comportamento do preço da Tether e identificar padrões de negociação.",
+      "Aplicar indicadores técnicos relevantes (médias móveis, suporte e resistência, análise de volatilidade).",
+      "Gerar insights sobre a performance da Tether para traders e investidores."
+    ],
+    "requisitos": {
+      "funcionais": [
+        "O script deve coletar dados históricos de preços e volumes de negociação.",
+        "Deve incluir funções para calcular indicadores técnicos relevantes.",
+        "O usuário deve poder visualizar os resultados em gráficos interativos."
+      ],
+      "nao_funcionais": [
+        "O script deve ser eficiente na coleta e análise de dados.",
+        "A interface deve ser intuitiva e fácil de usar."
+      ]
+    },
+    "tecnologias": [
+      "Python",
+      "APIs de dados de criptomoedas (ex: CoinMarketCap, Binance)",
+      "Bibliotecas para gráficos interativos (ex: Plotly, Matplotlib)"
+    ],
+    "stakeholders": [
+      "Usuário final (traders e investidores)",
+      "Desenvolvedor",
+      "Gerente de projeto"
+    ]
+  },
+  "name_doc_Pre_Projeto": "Documento Pre-Projeto - Análise Técnica da Stablecoin Tether (USDT)"
+}
+```
