@@ -1,0 +1,56 @@
+Com base no Documento Pre Projeto sobre a Criação de Script para Análise Técnica da Stablecoin Tether (USDT), aqui está o cronograma do projeto em formato JSON:
+
+**Cronograma do Projeto:**
+```json
+{
+  "cronograma": {
+    "etapas": [
+      {
+        "nome": "Coleta de dados históricos",
+        "data_inicio": "2025-01-02",
+        "data_fim": "2025-01-08",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Análise do comportamento do preço",
+        "data_inicio": "2025-01-09",
+        "data_fim": "2025-01-15",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Aplicação de indicadores técnicos",
+        "data_inicio": "2025-01-16",
+        "data_fim": "2025-01-25",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Geração de gráficos interativos",
+        "data_inicio": "2025-01-26",
+        "data_fim": "2025-02-02",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Testes e validação do script",
+        "data_inicio": "2025-02-03",
+        "data_fim": "2025-02-10",
+        "responsavel": "Gerente de projeto"
+      },
+      {
+        "nome": "Feedback e ajustes finais",
+        "data_inicio": "2025-02-11",
+        "data_fim": "2025-02-15",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Lançamento da versão final",
+        "data_inicio": "2025-02-16",
+        "data_fim": "2025-02-20",
+        "responsavel": "Gerente de projeto"
+      }
+    ]
+  },
+  "nome_do_cronograma": "Cronograma - Criação de Script para Análise Técnica da Stablecoin Tether (USDT)"
+}
+```
+
+Esse cronograma detalha as etapas principais do projeto, incluindo as datas de início e fim, além dos responsáveis por cada etapa. Se precisar de mais informações ou ajustes, por favor, me avise!
