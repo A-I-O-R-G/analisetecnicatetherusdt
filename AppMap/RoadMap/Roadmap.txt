@@ -1,0 +1,75 @@
+Com base nas informações coletadas do cronograma, da planilha e do documento pré-projeto sobre a criação de um script para análise técnica da stablecoin Tether (USDT), aqui está o Roadmap do Projeto estruturado em formato JSON:
+
+```json
+{
+  "Roadmap": {
+    "nome_do_roadmap": "Roadmap - Criação de Script para Análise Técnica da Stablecoin Tether (USDT)",
+    "objetivo": "Desenvolver um script para coleta, análise e visualização de dados da Tether (USDT), visando auxiliar traders e investidores.",
+    "stakeholders": [
+      "Usuário final (traders e investidores)",
+      "Desenvolvedor",
+      "Gerente de projeto"
+    ],
+    "tecnologias": [
+      "Python",
+      "APIs de dados de criptomoedas (ex: CoinMarketCap, Binance)",
+      "Bibliotecas para gráficos interativos (ex: Plotly, Matplotlib)"
+    ],
+    "etapas": [
+      {
+        "nome": "Coleta de dados históricos",
+        "data_inicio": "2025-01-02",
+        "data_fim": "2025-01-08",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Análise do comportamento do preço",
+        "data_inicio": "2025-01-09",
+        "data_fim": "2025-01-15",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Aplicação de indicadores técnicos",
+        "data_inicio": "2025-01-16",
+        "data_fim": "2025-01-25",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Geração de gráficos interativos",
+        "data_inicio": "2025-01-26",
+        "data_fim": "2025-02-02",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Testes e validação do script",
+        "data_inicio": "2025-02-03",
+        "data_fim": "2025-02-10",
+        "responsavel": "Gerente de projeto"
+      },
+      {
+        "nome": "Feedback e ajustes finais",
+        "data_inicio": "2025-02-11",
+        "data_fim": "2025-02-15",
+        "responsavel": "Desenvolvedor"
+      },
+      {
+        "nome": "Lançamento da versão final",
+        "data_inicio": "2025-02-16",
+        "data_fim": "2025-02-20",
+        "responsavel": "Gerente de projeto"
+      }
+    ],
+    "requisitos_funcionais": [
+      "O script deve coletar dados históricos de preços e volumes de negociação da Tether.",
+      "Deve incluir funções para calcular indicadores técnicos relevantes.",
+      "O usuário deve poder visualizar os resultados em gráficos interativos."
+    ],
+    "requisitos_nao_funcionais": [
+      "O script deve ser eficiente na coleta e análise de dados.",
+      "A interface deve ser intuitiva e fácil de usar."
+    ]
+  }
+}
+```
+
+Esse roadmap divide o projeto em etapas claras, exibindo responsáveis e prazos, além de descrever o objetivo do projeto, as tecnologias que serão utilizadas e os requisitos esperados. Caso precise de mais alguma informação ou ajuste, estou à disposição!
